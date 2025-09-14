@@ -1,0 +1,4501 @@
+founder_uuid,success,industry,ipos,acquisitions,educations_json,jobs_json,anonymised_prose
+01dadc78-b279-48ee-8e2e-af789846cf3d,1,Industrial & Agricultural Machinery Manufacturing,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Marketing"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Brand Strategist"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Creative & Graphic Design"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Executive Director (Marketing)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""General Retail & Consumer Goods"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Interactive Manager"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Board Member, Treasurer"",
+    ""company_size"": """",
+    ""industry"": ""Marketing, Advertising & Events"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Account Executive"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Industrial & Agricultural Machinery Manufacturing industry.
+Education:
+* BS in Marketing (Institution QS rank 200+)
+
+Professional experience:
+* Brand Strategist for <2 years in the `Creative & Graphic Design` industry (11-50 employees)
+* Executive Director (Marketing) for <2 years in the `General Retail & Consumer Goods` industry (10001+ employees)
+* Interactive Manager for <2 years
+* Board Member, Treasurer for <2 years in the `Marketing, Advertising & Events` industry
+* Account Executive for 2-3 years
+"
+16b5a930-ca55-4273-87d5-7f9bd1fc8935,1,Research Services & Market Analysis,,,"[
+  {
+    ""degree"": ""PhD"",
+    ""field"": ""Molecular Biology"",
+    ""qs_ranking"": ""2""
+  },
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Preclinical Medicine"",
+    ""qs_ranking"": ""3""
+  }
+]","[
+  {
+    ""role"": ""Postdoctoral Scholar"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Higher Education & Research""
+  },
+  {
+    ""role"": ""Trustee"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""6-9""
+  }
+]","This founder leads a startup in the Research Services & Market Analysis industry.
+Education:
+* PhD in Molecular Biology (Institution QS rank 2)
+* Bachelor in Preclinical Medicine (Institution QS rank 3)
+
+Professional experience:
+* Postdoctoral Scholar in the `Higher Education & Research` industry (10001+ employees)
+* Trustee for 6-9 years
+"
+f5902609-fa5d-4da5-9253-406ef59e8ba5,1,Clinical & Diagnostic Healthcare,,,"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""MD"",
+    ""field"": ""Medicine"",
+    ""qs_ranking"": ""31""
+  },
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Molecular Biology"",
+    ""qs_ranking"": ""53""
+  }
+]","[
+  {
+    ""role"": ""CFO, Managing Partner"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Emergency Department Physician"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Medical Director"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Co-Owner, Board Member"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Risk Manager"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Resident (Emergency Medicine)"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Clinical & Diagnostic Healthcare industry.
+Education:
+* MBA (Institution QS rank 200+)
+* MD in Medicine (Institution QS rank 31)
+* BA in Molecular Biology (Institution QS rank 53)
+
+Professional experience:
+* CFO, Managing Partner for 2-3 years
+* Emergency Department Physician for >9 years in the `Clinical & Diagnostic Healthcare` industry (51-200 employees)
+* Medical Director for <2 years
+* Co-Owner, Board Member for 6-9 years
+* Risk Manager for >9 years
+* Resident (Emergency Medicine) for 2-3 years in the `Clinical & Diagnostic Healthcare` industry (5001-10000 employees)
+"
+db57012c-1d64-47df-9d84-bd2b6a541e40,1,Financial Services,,,"[
+  {
+    ""degree"": """",
+    ""field"": ""Information Technology and Electronics and Telecommunications"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""CEO, Founder, Chief IT Consultant"",
+    ""company_size"": """",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Identity & Federation Architect, Co-Founder"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Identity Architect"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Identity Architect"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Network Consultant"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Networking & Cybersecurity Products"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""IT Consultant, Founder"",
+    ""company_size"": """",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": """",
+    ""industry"": ""Telecommunications Services"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Networking Consultant, Lecturer"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Wholesale, Import/Export & Business Supplies"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Systems Engineer"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Financial Services industry.
+Education:
+* in Information Technology and Electronics and Telecommunications (Institution QS rank 200+)
+
+Professional experience:
+* CEO, Founder, Chief IT Consultant for 4-5 years in the `IT Services & Digital Solutions` industry
+* Identity & Federation Architect, Co-Founder for <2 years
+* Identity Architect for 2-3 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* Identity Architect for 2-3 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* Network Consultant for <2 years in the `Networking & Cybersecurity Products` industry (5001-10000 employees)
+* IT Consultant, Founder for <2 years in the `IT Services & Digital Solutions` industry
+* Co-Founder for 2-3 years in the `Telecommunications Services` industry
+* Networking Consultant, Lecturer for <2 years in the `Wholesale, Import/Export & Business Supplies` industry (10001+ employees)
+* Systems Engineer for 4-5 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+"
+ad37f148-2332-416b-9905-9a318750bb4d,1,Telecommunications Services,[],"[{'price_usd': 'Undisclosed', 'acquired_by_well_known': False}]",,"[
+  {
+    ""role"": ""Founder"",
+    ""company_size"": """",
+    ""industry"": """"
+  },
+  {
+    ""role"": ""Investor"",
+    ""company_size"": """",
+    ""industry"": """"
+  },
+  {
+    ""role"": ""VP (Product & Business Development)"",
+    ""company_size"": """",
+    ""industry"": """"
+  },
+  {
+    ""role"": ""Director (Marketing)"",
+    ""company_size"": """",
+    ""industry"": """"
+  },
+  {
+    ""role"": ""Executive in Residence / Partner"",
+    ""company_size"": """",
+    ""industry"": ""Venture Capital & Private Equity""
+  }
+]","This founder leads a startup in the Telecommunications Services industry.
+Professional experience:
+* Founder
+* Investor
+* VP (Product & Business Development)
+* Director (Marketing)
+* Executive in Residence / Partner in the `Venture Capital & Private Equity` industry
+
+ They have overseen one acquisition as a founder: one Undisclosed in value."
+10b28346-31b6-411c-b32e-c32c7324f5f3,1,Networking & Cybersecurity Products,,,"[
+  {
+    ""degree"": ""MSc"",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Researcher"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Research Team Leader"",
+    ""company_size"": """",
+    ""industry"": ""Armed Forces"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Research Team Member"",
+    ""company_size"": """",
+    ""industry"": ""Armed Forces"",
+    ""duration"": ""6-9""
+  }
+]","This founder leads a startup in the Networking & Cybersecurity Products industry.
+Education:
+* MSc (Institution QS rank 200+)
+
+Professional experience:
+* Researcher for <2 years
+* Research Team Leader for <2 years in the `Armed Forces` industry
+* Research Team Member for 6-9 years in the `Armed Forces` industry
+"
+e4e247c3-e71d-4f60-8ed9-2ced04fef223,1,Semiconductor Industries,,,"[
+  {
+    ""degree"": ""BA, MBA"",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Director"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Director"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""President"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Semiconductor Industries"",
+    ""duration"": "">9""
+  }
+]","This founder leads a startup in the Semiconductor Industries industry.
+Education:
+* BA, MBA (Institution QS rank 200+)
+
+Professional experience:
+* Director for <2 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* Director for <2 years in the `Financial Services` industry (10001+ employees)
+* President for >9 years in the `Semiconductor Industries` industry (10001+ employees)
+"
+5385f6df-bdaf-4490-bc2a-c58b37d856fe,1,IT Services & Digital Solutions,[],[],"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""6""
+  }
+]","[
+  {
+    ""role"": ""Software Engineer"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* BS in Computer Science (Institution QS rank 6)
+
+Professional experience:
+* Software Engineer for <2 years in the `Software Development` industry (10001+ employees)
+"
+efe05ba3-f33d-43ad-aed5-1f2a0d655fe6,1,,[],[],,"[
+  {
+    ""role"": """",
+    ""company_size"": """",
+    ""industry"": ""Marketing, Advertising & Events""
+  }
+]","This founder leads a startup
+Professional experience:
+* in the `Marketing, Advertising & Events` industry
+"
+19deac6e-6286-45eb-999f-318dafb70d43,0,"Building Materials, Construction & Architecture",,,"[
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""VP"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""VP"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Analyst"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Building Materials, Construction & Architecture industry.
+Education:
+* (Institution QS rank 200+)
+
+Professional experience:
+* VP for 2-3 years in the `Financial Services` industry (10001+ employees)
+* VP for 4-5 years in the `Financial Services` industry (5001-10000 employees)
+* Analyst for <2 years in the `Financial Services` industry (10001+ employees)
+"
+72e4b755-7edb-4df6-a247-36196f0d862d,0,Research Services & Market Analysis,,,"[
+  {
+    ""degree"": ""BS, MSc, PhD"",
+    ""field"": ""Soil Science"",
+    ""qs_ranking"": ""119""
+  }
+]","[
+  {
+    ""role"": ""Professor (Soil Science)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Interim IT Director"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Research Services & Market Analysis industry.
+Education:
+* BS, MSc, PhD in Soil Science (Institution QS rank 119)
+
+Professional experience:
+* Professor (Soil Science) for <2 years in the `Higher Education & Research` industry (10001+ employees)
+* Interim IT Director for <2 years in the `Higher Education & Research` industry (10001+ employees)
+"
+62b17a05-6788-400f-8afa-ab3a4f0c1c34,0,General Retail & Consumer Goods,,,"[
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Business Economics"",
+    ""qs_ranking"": ""141""
+  }
+]","[
+  {
+    ""role"": ""CEO"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""CEO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""IT Specialist, Purchasing Specialist"",
+    ""company_size"": """",
+    ""industry"": ""Consumer Electronics & Sporting Goods"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Director (E-Commerce & Licensing)"",
+    ""company_size"": """",
+    ""industry"": ""Consumer Electronics & Sporting Goods"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the General Retail & Consumer Goods industry.
+Education:
+* BA in Business Economics (Institution QS rank 141)
+
+Professional experience:
+* CEO for <2 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* CEO for 6-9 years in the `IT Services & Digital Solutions` industry (11-50 employees)
+* IT Specialist, Purchasing Specialist for <2 years in the `Consumer Electronics & Sporting Goods` industry
+* Director (E-Commerce & Licensing) for 2-3 years in the `Consumer Electronics & Sporting Goods` industry
+"
+34fa398e-e48a-4c3d-9439-32561d235237,0,Research Services & Market Analysis,,,"[
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Government"",
+    ""qs_ranking"": ""1""
+  }
+]","[
+  {
+    ""role"": ""Professor"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Medical Director (Psychiatric Rehabilitation)"",
+    ""company_size"": """",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Director (Neurocognitive Assessment Laboratory)"",
+    ""company_size"": """",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Visiting Professor (Cognitive Science)"",
+    ""company_size"": """",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Coordinator (fMRI Studies)"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Director (Outpatient Division)"",
+    ""company_size"": """",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Chief (Mental Hygiene Clinic)"",
+    ""company_size"": """",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Associate Chief (Clinical Research)"",
+    ""company_size"": """",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Medical Student"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Research Services & Market Analysis industry.
+Education:
+* Bachelor in Government (Institution QS rank 1)
+
+Professional experience:
+* Professor for >9 years in the `Higher Education & Research` industry (10001+ employees)
+* Medical Director (Psychiatric Rehabilitation) for >9 years in the `Clinical & Diagnostic Healthcare` industry
+* Director (Neurocognitive Assessment Laboratory) for >9 years in the `Clinical & Diagnostic Healthcare` industry
+* Visiting Professor (Cognitive Science) for <2 years in the `Higher Education & Research` industry
+* Coordinator (fMRI Studies) for 4-5 years
+* Director (Outpatient Division) for 4-5 years in the `Clinical & Diagnostic Healthcare` industry
+* Chief (Mental Hygiene Clinic) for 4-5 years in the `Clinical & Diagnostic Healthcare` industry
+* Associate Chief (Clinical Research) for >9 years in the `Clinical & Diagnostic Healthcare` industry
+* Medical Student for 2-3 years in the `Higher Education & Research` industry (1001-5000 employees)
+"
+bc3a43b0-9375-4ce1-a463-026984db7a24,0,Electronic & Precision Equipment Manufacturing,,,"[
+  {
+    ""degree"": """",
+    ""field"": ""Geography"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Director (Photography)"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Director (Photography)"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Electronic & Precision Equipment Manufacturing industry.
+Education:
+* in Geography (Institution QS rank 200+)
+
+Professional experience:
+* Director (Photography) for <2 years
+* Director (Photography) for <2 years
+"
+1f4b4f87-97f6-4140-ac18-5ec838775755,0,Food & Beverage Services & Retail,,,,"[
+  {
+    ""role"": ""Principal Advisor"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Board of Trustees Member"",
+    ""company_size"": """",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Principal Advisor (Innovative Financing)"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Non\u2011Profit, NGO & Associations"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Partner"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Executive Director"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""6-9""
+  }
+]","This founder leads a startup in the Food & Beverage Services & Retail industry.
+Professional experience:
+* Principal Advisor for <2 years
+* Board of Trustees Member for 4-5 years in the `Financial Services` industry
+* Co-Founder for 4-5 years
+* Principal Advisor (Innovative Financing) for <2 years in the `Non‑Profit, NGO & Associations` industry (501-1000 employees)
+* Partner for <2 years
+* Executive Director for 6-9 years in the `Higher Education & Research` industry (501-1000 employees)
+"
+32606edd-ec21-4216-8de6-4d0b66f061f3,0,IT Services & Digital Solutions,,,"[
+  {
+    ""degree"": ""PhD"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""127""
+  },
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""127""
+  },
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Mathematics"",
+    ""qs_ranking"": ""127""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Computer Science and Mathematics"",
+    ""qs_ranking"": ""127""
+  }
+]","[
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Interim CTO"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": """",
+    ""company_size"": """",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Senior E-Governance Consultant"",
+    ""company_size"": """",
+    ""industry"": ""Government Policy & Legal Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Advisor"",
+    ""company_size"": """",
+    ""industry"": ""Government Policy & Legal Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""CTO (CTO)"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Board of Management Member"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Head of Engineering, Chief Software Architect"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Senior Software Engineer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Consultant"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* PhD in Computer Science (Institution QS rank 127)
+* MS in Computer Science (Institution QS rank 127)
+* MS in Mathematics (Institution QS rank 127)
+* BS in Computer Science and Mathematics (Institution QS rank 127)
+
+Professional experience:
+* Co-Founder for <2 years in the `IT Services & Digital Solutions` industry (51-200 employees)
+* Interim CTO for <2 years
+* for >9 years in the `Higher Education & Research` industry
+* Senior E-Governance Consultant for <2 years in the `Government Policy & Legal Services` industry
+* Advisor for <2 years in the `Government Policy & Legal Services` industry
+* CTO (CTO) for <2 years in the `IT Services & Digital Solutions` industry (51-200 employees)
+* Board of Management Member for 4-5 years in the `Higher Education & Research` industry (51-200 employees)
+* Head of Engineering, Chief Software Architect for 4-5 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* Senior Software Engineer for <2 years
+* Consultant for <2 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+"
+42ca5672-449f-4871-842a-3471556d01b1,0,,[],"[{'price_usd': 'Undisclosed', 'acquired_by_well_known': False}]",,"[
+  {
+    ""role"": ""Co-Founder, VP Sales"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Sales Representative"",
+    ""company_size"": """",
+    ""industry"": ""Transportation & Logistics"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Inside Sales Representative"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup
+Professional experience:
+* Co-Founder, VP Sales for 2-3 years
+* Sales Representative for 2-3 years in the `Transportation & Logistics` industry
+* Inside Sales Representative for 2-3 years
+
+ They have overseen one acquisition as a founder: one Undisclosed in value."
+95a0ea41-a508-478e-9340-2852aba583a4,0,Software Development,,,"[
+  {
+    ""degree"": ""BBA"",
+    ""field"": ""Commerce and Information Systems"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Non-Executive Director"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""General Retail & Consumer Goods"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Director"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""General Retail & Consumer Goods"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Owner, Design, Branding & E-commerce Consultant"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Project Manager (Cricket Launch)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Freelance Project Manager"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Software Development industry.
+Education:
+* BBA in Commerce and Information Systems (Institution QS rank 200+)
+
+Professional experience:
+* Non-Executive Director for 2-3 years in the `General Retail & Consumer Goods` industry (201-500 employees)
+* Director for 6-9 years in the `General Retail & Consumer Goods` industry (201-500 employees)
+* Owner, Design, Branding & E-commerce Consultant for 4-5 years
+* Project Manager (Cricket Launch) for <2 years in the `Financial Services` industry (10001+ employees)
+* Freelance Project Manager for <2 years in the `Financial Services` industry (10001+ employees)
+"
+e667508b-f8e3-4671-8e77-2dab3133fdad,0,Veterinary,,,"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": ""Business"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Marketing"",
+    ""qs_ranking"": ""99""
+  }
+]","[
+  {
+    ""role"": ""CEO"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Veterinary"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""National Sales Director"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Industrial & Agricultural Machinery Manufacturing"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""National Account Director (Government Sales)"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Industrial & Agricultural Machinery Manufacturing"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""National Account Manager (Government Sales)"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Industrial & Agricultural Machinery Manufacturing"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Regional Sales Manager"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Industrial & Agricultural Machinery Manufacturing"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Logistics Officer (Army)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Armed Forces"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Veterinary industry.
+Education:
+* MBA in Business (Institution QS rank 200+)
+* BS in Marketing (Institution QS rank 99)
+
+Professional experience:
+* CEO for <2 years in the `Veterinary` industry (2-10 employees)
+* National Sales Director for <2 years in the `Industrial & Agricultural Machinery Manufacturing` industry (1001-5000 employees)
+* National Account Director (Government Sales) for 4-5 years in the `Industrial & Agricultural Machinery Manufacturing` industry (1001-5000 employees)
+* National Account Manager (Government Sales) for 6-9 years in the `Industrial & Agricultural Machinery Manufacturing` industry (1001-5000 employees)
+* Regional Sales Manager for <2 years in the `Industrial & Agricultural Machinery Manufacturing` industry (51-200 employees)
+* Logistics Officer (Army) for 2-3 years in the `Armed Forces` industry (10001+ employees)
+"
+d1492836-f5e7-4a8b-af24-7b7e83d406c3,0,General Retail & Consumer Goods,,,"[
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Executive Director, Founder"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Non\u2011Profit, NGO & Associations"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Executive VP"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Personal Care & Cosmetics"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Co-Director (Corporate Partnerships)"",
+    ""company_size"": """",
+    ""industry"": ""Non\u2011Profit, NGO & Associations"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Marketing Associate"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Entertainment & Live Arts"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Assistant Director, Boy's Head Counselor"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Entertainment & Live Arts"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the General Retail & Consumer Goods industry.
+Education:
+* (Institution QS rank 200+)
+
+Professional experience:
+* Executive Director, Founder for 2-3 years in the `Non‑Profit, NGO & Associations` industry (2-10 employees)
+* Executive VP for <2 years in the `Personal Care & Cosmetics` industry (11-50 employees)
+* Co-Director (Corporate Partnerships) for <2 years in the `Non‑Profit, NGO & Associations` industry
+* Marketing Associate for <2 years in the `Entertainment & Live Arts` industry (11-50 employees)
+* Assistant Director, Boy's Head Counselor for 4-5 years in the `Entertainment & Live Arts` industry (2-10 employees)
+"
+4f776f87-4ea8-4471-b7f5-476b51f205b7,0,Entertainment & Live Arts,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Accounting and International Business and Arabic Language"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Production Accountant"",
+    ""company_size"": ""10001+"",
+    ""industry"": ""Entertainment & Live Arts"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Production Accountant"",
+    ""company_size"": ""51-200"",
+    ""industry"": ""Entertainment & Live Arts"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Process & Controls Consultant"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Assurance Associate"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": """",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Entertainment & Live Arts industry.
+Education:
+* BS in Accounting and International Business and Arabic Language (Institution QS rank 200+)
+
+Professional experience:
+* Production Accountant for <2 years in the `Entertainment & Live Arts` industry (10001+)
+* Production Accountant for <2 years in the `Entertainment & Live Arts` industry (51-200)
+* Process & Controls Consultant for <2 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* Assurance Associate for <2 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* for 2-3 years in the `Higher Education & Research` industry (1001-5000 employees)
+"
+5dadd66f-d922-4299-ac74-968d56ebf401,0,Food & Beverage Services & Retail,,,"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": ""Entrepreneurship and Media and Brand Management and Organizational Behavior"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""130""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Computer Engineering"",
+    ""qs_ranking"": ""130""
+  }
+]","[
+  {
+    ""role"": ""Advisor"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""VP (International Business Development)"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Product Manager (Artists & Events)"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Producer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Owner"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Owner, Manager"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Quality Engineer"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Principal Research Engineer"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Developer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Consultant"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Food & Beverage Services & Retail industry.
+Education:
+* MBA in Entrepreneurship and Media and Brand Management and Organizational Behavior (Institution QS rank 200+)
+* MS in Computer Science (Institution QS rank 130)
+* BS in Computer Engineering (Institution QS rank 130)
+
+Professional experience:
+* Advisor for <2 years
+* VP (International Business Development) for <2 years in the `Technology, Information & Internet Platforms` industry (11-50 employees)
+* Senior Product Manager (Artists & Events) for <2 years in the `Technology, Information & Internet Platforms` industry (11-50 employees)
+* Producer for <2 years
+* Owner for 2-3 years
+* Owner, Manager for 2-3 years
+* Quality Engineer for <2 years in the `Software Development` industry (1001-5000 employees)
+* Principal Research Engineer for <2 years in the `Higher Education & Research` industry (10001+ employees)
+* Senior Developer for <2 years
+* Consultant for <2 years
+"
+5beeb5f4-a962-4eb3-a321-390f872a24de,0,Research Services & Market Analysis,,,"[
+  {
+    ""degree"": ""PhD"",
+    ""field"": ""Ecology and Evolutionary Biology"",
+    ""qs_ranking"": ""10""
+  },
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Biochemistry"",
+    ""qs_ranking"": ""79""
+  }
+]","[
+  {
+    ""role"": ""Scientist"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Research Services & Market Analysis"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Professor"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""6-9""
+  }
+]","This founder leads a startup in the Research Services & Market Analysis industry.
+Education:
+* PhD in Ecology and Evolutionary Biology (Institution QS rank 10)
+* Bachelor in Biochemistry (Institution QS rank 79)
+
+Professional experience:
+* Scientist for 2-3 years in the `Research Services & Market Analysis` industry (1001-5000 employees)
+* Professor for 6-9 years in the `Higher Education & Research` industry (5001-10000 employees)
+"
+2de162b9-bf13-487c-9312-d39ea2e2f7cb,0,,,,,"[
+  {
+    ""role"": ""Principal Director (Data Science)"",
+    ""company_size"": """",
+    ""industry"": ""Creative & Graphic Design""
+  },
+  {
+    ""role"": ""Mentor (Data Science)"",
+    ""company_size"": """",
+    ""industry"": """"
+  }
+]","This founder leads a startup
+Professional experience:
+* Principal Director (Data Science) in the `Creative & Graphic Design` industry
+* Mentor (Data Science)
+"
+d1697b95-92c4-4a7d-acd6-b2f2b9be4429,0,Financial Services,,,"[
+  {
+    ""degree"": ""BFA"",
+    ""field"": ""Visual Communication"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""AA"",
+    ""field"": ""General Studies"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""VP (Business Development)"",
+    ""company_size"": """",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""VP (Marketing)"",
+    ""company_size"": """",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Director (Marketing)"",
+    ""company_size"": """",
+    ""industry"": ""Real Estate & Leasing"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Director (Marketing)"",
+    ""company_size"": """",
+    ""industry"": ""Real Estate & Leasing"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Graphic Designer"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Real Estate & Leasing"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Financial Services industry.
+Education:
+* BFA in Visual Communication (Institution QS rank 200+)
+* AA in General Studies (Institution QS rank 200+)
+
+Professional experience:
+* VP (Business Development) for 2-3 years in the `Financial Services` industry
+* VP (Marketing) for 6-9 years in the `Financial Services` industry
+* Director (Marketing) for <2 years in the `Real Estate & Leasing` industry
+* Director (Marketing) for 2-3 years in the `Real Estate & Leasing` industry
+* Graphic Designer for <2 years in the `Real Estate & Leasing` industry (1001-5000 employees)
+"
+bca3f770-5583-44fc-9334-0670e926d3d6,0,"Aerospace, Defense & Ship/Space",,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Aeronautical Science and Electrical Engineering"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""CEO, President"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Electrical Engineer"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""Aerospace, Defense & Ship/Space"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Avionics Engineer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Aerospace Engineer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Aerospace, Defense & Ship/Space industry.
+Education:
+* BS in Aeronautical Science and Electrical Engineering (Institution QS rank 200+)
+
+Professional experience:
+* CEO, President for <2 years
+* Electrical Engineer for 6-9 years in the `Aerospace, Defense & Ship/Space` industry (201-500 employees)
+* Avionics Engineer for <2 years
+* Aerospace Engineer for <2 years
+"
+833fa5e9-33bd-49c5-840c-ff51f9f4da2f,0,Financial Services,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Electrical Engineering"",
+    ""qs_ranking"": ""31""
+  }
+]","[
+  {
+    ""role"": ""Principal Partner Manager"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Director (Technology)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Systems Engineer"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Deputy Sheriff"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Public Safety & Security Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Financial Services industry.
+Education:
+* BS in Electrical Engineering (Institution QS rank 31)
+
+Professional experience:
+* Principal Partner Manager for 2-3 years in the `Software Development` industry (5001-10000 employees)
+* Director (Technology) for >9 years in the `Software Development` industry (10001+ employees)
+* Systems Engineer for <2 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* Deputy Sheriff for <2 years in the `Public Safety & Security Services` industry (10001+ employees)
+"
+f820fc8f-3e00-4389-921b-69b6a0db70eb,0,"Technology, Information & Internet Platforms",,,"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": ""Business Administration and Management"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Master"",
+    ""field"": ""Electrical and Computer Engineering"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Computer and Software Engineering"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Transportation & Logistics"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Associate Partner"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Senior Service Operations Engineer"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Senior Service Operations Engineer"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Telecommunications Services"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Chairman of The Board"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Non\u2011Profit, NGO & Associations"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Technical Project Manager"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Site Engineer (Contractor)"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* MBA in Business Administration and Management (Institution QS rank 200+)
+* Master in Electrical and Computer Engineering (Institution QS rank 200+)
+* Bachelor in Computer and Software Engineering (Institution QS rank 200+)
+
+Professional experience:
+* Co-Founder for <2 years in the `Transportation & Logistics` industry (51-200 employees)
+* Associate Partner for 2-3 years in the `IT Services & Digital Solutions` industry (2-10 employees)
+* Senior Service Operations Engineer for 2-3 years in the `IT Services & Digital Solutions` industry (5001-10000 employees)
+* Senior Service Operations Engineer for 2-3 years in the `Telecommunications Services` industry (10001+ employees)
+* Chairman of The Board for <2 years in the `Non‑Profit, NGO & Associations` industry (2-10 employees)
+* Technical Project Manager for <2 years in the `Clinical & Diagnostic Healthcare` industry (10001+ employees)
+* Site Engineer (Contractor) for <2 years
+"
+43587528-7ee3-4c4e-aae1-e0c7d65a13c5,0,Research Services & Market Analysis,,,"[
+  {
+    ""degree"": ""Postdoc"",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""PhD"",
+    ""field"": ""Neuroscience"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""CEO"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Faculty"",
+    ""company_size"": """",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Research Scientist"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Biotechnology & Nanotechnology Research"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": """",
+    ""company_size"": """",
+    ""industry"": ""Biotechnology & Nanotechnology Research"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Postdoctoral Fellow"",
+    ""company_size"": """",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Research Services & Market Analysis industry.
+Education:
+* Postdoc (Institution QS rank 200+)
+* PhD in Neuroscience (Institution QS rank 200+)
+
+Professional experience:
+* CEO for <2 years
+* Faculty for <2 years in the `Higher Education & Research` industry
+* Research Scientist for 2-3 years in the `Biotechnology & Nanotechnology Research` industry (51-200 employees)
+* for <2 years in the `Biotechnology & Nanotechnology Research` industry
+* Postdoctoral Fellow for <2 years in the `Clinical & Diagnostic Healthcare` industry
+"
+8c4f1a76-cbd5-4cb4-9660-6abaea497705,0,Food & Beverage Production & Farming,,,"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": ""Business Administration and Management and Operations"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Physics"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BTech"",
+    ""field"": ""Electrical and Electronics Engineering"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Director, Manager (Business Development, India)"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Industrial & Agricultural Machinery Manufacturing"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Global ERP Project Leader"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Industrial & Agricultural Machinery Manufacturing"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Global Business Analyst"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Electronic & Precision Equipment Manufacturing"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Implementation Consultant"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Analyst"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Navision Analyst"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Navision Developer"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Food & Beverage Production & Farming industry.
+Education:
+* MBA in Business Administration and Management and Operations (Institution QS rank 200+)
+* MS in Physics (Institution QS rank 200+)
+* BTech in Electrical and Electronics Engineering (Institution QS rank 200+)
+
+Professional experience:
+* Director, Manager (Business Development, India) for 2-3 years in the `Industrial & Agricultural Machinery Manufacturing` industry (1001-5000 employees)
+* Global ERP Project Leader for 6-9 years in the `Industrial & Agricultural Machinery Manufacturing` industry (1001-5000 employees)
+* Global Business Analyst for <2 years in the `Electronic & Precision Equipment Manufacturing` industry (5001-10000 employees)
+* Senior Implementation Consultant for <2 years
+* Senior Analyst for <2 years
+* Navision Analyst for <2 years
+* Navision Developer for <2 years in the `Financial Services` industry (1001-5000 employees)
+"
+6a0b1edd-50da-4c74-b7c7-442c32ce34e8,0,Internet Media & Publishing,[],"[{'price_usd': 'Undisclosed', 'acquired_by_well_known': False}, {'price_usd': 'Undisclosed', 'acquired_by_well_known': False}, {'price_usd': 'Undisclosed', 'acquired_by_well_known': False}]","[
+  {
+    ""degree"": ""MBA"",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Systems Engineering"",
+    ""qs_ranking"": ""130""
+  }
+]","[
+  {
+    ""role"": ""Advisory Board Member"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Marketing, Advertising & Events"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Co-Founder, CEO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Telecommunications Services"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Advisory Board Member"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Hospitality & Tourism"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Director (Business Development)"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Startup Consultant, Business Development Specialist"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder, COO, Business Development"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Consultant"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Consultant"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Internet Media & Publishing industry.
+Education:
+* MBA (Institution QS rank 200+)
+* BS in Systems Engineering (Institution QS rank 130)
+
+Professional experience:
+* Advisory Board Member for 2-3 years in the `Marketing, Advertising & Events` industry (2-10 employees)
+* Co-Founder, CEO for 2-3 years in the `Telecommunications Services` industry (11-50 employees)
+* Advisory Board Member for <2 years in the `Hospitality & Tourism` industry (51-200 employees)
+* Senior Director (Business Development) for 6-9 years in the `Software Development` industry (1001-5000 employees)
+* Startup Consultant, Business Development Specialist for <2 years
+* Founder, COO, Business Development for <2 years in the `Technology, Information & Internet Platforms` industry (51-200 employees)
+* Senior Consultant for <2 years
+* Senior Consultant for 2-3 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+
+ They have overseen 3 acquisitions as a founder: one Undisclosed in value, one Undisclosed in value and one Undisclosed in value."
+e3d5cdac-8c4c-4d55-b7ec-37746a1690f0,0,"Technology, Information & Internet Platforms",[],[],"[
+  {
+    ""degree"": """",
+    ""field"": ""Communication Sciences"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Investor, Advisor, Board Member"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Marketing, Advertising & Events"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Mentor"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Venture Capital & Private Equity"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Mentor"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Management, Strategy & Professional Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Co-Founder, COO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Co-Founder, CEO"",
+    ""company_size"": ""11-50"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Co-Founder, CPO"",
+    ""company_size"": """",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Co-Founder, Director"",
+    ""company_size"": """",
+    ""industry"": ""Entertainment & Live Arts"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Co-Founder, CTO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Co-Founder, COO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Freelance Journalist"",
+    ""company_size"": """",
+    ""industry"": ""Publishing"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": """",
+    ""industry"": ""Entertainment & Live Arts"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* in Communication Sciences (Institution QS rank 200+)
+
+Professional experience:
+* Investor, Advisor, Board Member for 4-5 years in the `Marketing, Advertising & Events` industry (11-50 employees)
+* Mentor for <2 years in the `Venture Capital & Private Equity` industry (11-50 employees)
+* Mentor for <2 years in the `Management, Strategy & Professional Services` industry (11-50 employees)
+* Co-Founder, COO for <2 years in the `Technology, Information & Internet Platforms` industry (11-50 employees)
+* Co-Founder, CEO for 4-5 years in the `Technology, Information & Internet Platforms` industry (11-50)
+* Co-Founder, CPO for <2 years in the `Technology, Information & Internet Platforms` industry
+* Co-Founder, Director for <2 years in the `Entertainment & Live Arts` industry
+* Co-Founder, CTO for 2-3 years in the `Software Development` industry (11-50 employees)
+* Co-Founder, COO for 4-5 years in the `Technology, Information & Internet Platforms` industry (11-50 employees)
+* Freelance Journalist for 4-5 years in the `Publishing` industry
+* Co-Founder for 2-3 years in the `Entertainment & Live Arts` industry
+"
+7288a809-3c95-4443-92dd-1623526be041,0,Food & Beverage Services & Retail,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Operations and Information Management"",
+    ""qs_ranking"": ""26""
+  },
+  {
+    ""degree"": """",
+    ""field"": ""Chemical Engineering"",
+    ""qs_ranking"": ""26""
+  }
+]","[
+  {
+    ""role"": """",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founding Team Member"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""6-9""
+  }
+]","This founder leads a startup in the Food & Beverage Services & Retail industry.
+Education:
+* BS in Operations and Information Management (Institution QS rank 26)
+* in Chemical Engineering (Institution QS rank 26)
+
+Professional experience:
+* 
+* Founding Team Member for 6-9 years
+"
+f7624121-c437-4b51-8d22-024431f9284c,0,"Technology, Information & Internet Platforms",,,"[
+  {
+    ""degree"": """",
+    ""field"": ""Business Management"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Sales & Marketing Manager"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Wholesale, Import/Export & Business Supplies"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Head of Operations"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Hospitality & Tourism"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Sales Manager"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Wellness & Community Health"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* in Business Management (Institution QS rank 200+)
+
+Professional experience:
+* Sales & Marketing Manager for <2 years in the `Wholesale, Import/Export & Business Supplies` industry (10001+ employees)
+* Head of Operations for <2 years in the `Hospitality & Tourism` industry (11-50 employees)
+* Sales Manager for <2 years in the `Wellness & Community Health` industry (501-1000 employees)
+"
+6ecd0c96-7449-406c-b8ba-c1fcd30458bf,0,Venture Capital & Private Equity,,,"[
+  {
+    ""degree"": ""PhD"",
+    ""field"": ""Neurobiology"",
+    ""qs_ranking"": ""4""
+  },
+  {
+    ""degree"": ""MPhil"",
+    ""field"": ""Neurobiology"",
+    ""qs_ranking"": ""4""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Music"",
+    ""qs_ranking"": ""4""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Brain and Cognitive Sciences"",
+    ""qs_ranking"": ""4""
+  }
+]","[
+  {
+    ""role"": ""Founder, CEO"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Research Associate"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Project Coordinator"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Postdoctoral Fellow (Molecular Psychiatry)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Venture Capital & Private Equity industry.
+Education:
+* PhD in Neurobiology (Institution QS rank 4)
+* MPhil in Neurobiology (Institution QS rank 4)
+* BS in Music (Institution QS rank 4)
+* BS in Brain and Cognitive Sciences (Institution QS rank 4)
+
+Professional experience:
+* Founder, CEO for <2 years
+* Research Associate for <2 years in the `Higher Education & Research` industry (201-500 employees)
+* Project Coordinator for <2 years
+* Postdoctoral Fellow (Molecular Psychiatry) for 4-5 years in the `Higher Education & Research` industry (10001+ employees)
+"
+f9b7e417-d21d-4e94-8976-6cf856ce9624,0,Broadcast Media Production & Distribution,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Management and Systems Engineering"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Executive Advisor"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""CEO, President"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""EVP, CTO"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Entertainment & Live Arts"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Broadcast Media Production & Distribution industry.
+Education:
+* BS in Management and Systems Engineering (Institution QS rank 200+)
+
+Professional experience:
+* Executive Advisor for <2 years in the `Software Development` industry (201-500 employees)
+* CEO, President for 4-5 years in the `Software Development` industry (201-500 employees)
+* EVP, CTO for 4-5 years in the `Entertainment & Live Arts` industry (10001+ employees)
+"
+d006794e-8d9f-4ef8-86e8-8d64f7f096bc,0,IT Services & Digital Solutions,,,"[
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Architecture Consultant"",
+    ""company_size"": """",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Lead Database Administrator"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Senior Database Architect"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Software Engineer (Database)"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Software Engineer (Database)"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""Utilities & Power Generation"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Software Engineering Lead"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Software Developer (Database Specialty)"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Process Control Engineer, IT Manager"",
+    ""company_size"": """",
+    ""industry"": ""Extractive Industries"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Software Engineer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* MS in Computer Science (Institution QS rank 200+)
+* BS in Computer Science (Institution QS rank 200+)
+
+Professional experience:
+* Architecture Consultant for 4-5 years in the `IT Services & Digital Solutions` industry
+* Lead Database Administrator for 2-3 years
+* Senior Database Architect for <2 years in the `Software Development` industry (11-50 employees)
+* Senior Software Engineer (Database) for <2 years in the `Software Development` industry (5001-10000 employees)
+* Senior Software Engineer (Database) for 4-5 years in the `Utilities & Power Generation` industry (201-500 employees)
+* Software Engineering Lead for 2-3 years in the `IT Services & Digital Solutions` industry (11-50 employees)
+* Software Developer (Database Specialty) for <2 years in the `Software Development` industry (51-200 employees)
+* Process Control Engineer, IT Manager for 6-9 years in the `Extractive Industries` industry
+* Software Engineer for <2 years
+"
+326a0180-07f3-4ce8-b4db-66e6c3c856be,0,,,,,"[
+  {
+    ""role"": ""Founder, CEO"",
+    ""company_size"": """",
+    ""industry"": """"
+  },
+  {
+    ""role"": ""Advisor"",
+    ""company_size"": """",
+    ""industry"": """"
+  }
+]","This founder leads a startup
+Professional experience:
+* Founder, CEO
+* Advisor
+"
+398cd219-e697-4b77-80cf-f2ac18252ad4,0,Environmental & Waste Services,,,"[
+  {
+    ""degree"": ""PhD"",
+    ""field"": ""Interdisciplinary Studies"",
+    ""qs_ranking"": ""8""
+  },
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Architecture"",
+    ""qs_ranking"": ""8""
+  },
+  {
+    ""degree"": ""MEng"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""15""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""12""
+  }
+]","[
+  {
+    ""role"": ""Visiting Assistant Professor"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Environmental & Waste Services industry.
+Education:
+* PhD in Interdisciplinary Studies (Institution QS rank 8)
+* MS in Architecture (Institution QS rank 8)
+* MEng in Computer Science (Institution QS rank 15)
+* BS in Computer Science (Institution QS rank 12)
+
+Professional experience:
+* Visiting Assistant Professor for <2 years in the `Higher Education & Research` industry (1001-5000 employees)
+"
+e546eb81-4e43-450f-8d27-66873567dc3b,0,Mechanical Engineering & Engineering Services,,,"[
+  {
+    ""degree"": ""PhD"",
+    ""field"": ""Biomedical and Medical Engineering"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": """",
+    ""field"": ""Electrical Engineering"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Mask Layout Designer"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Telecommunications Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Systems Engineer"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Aerospace, Defense & Ship/Space"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Personal Assistant"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Mechanical Engineering & Engineering Services industry.
+Education:
+* PhD in Biomedical and Medical Engineering (Institution QS rank 200+)
+* in Electrical Engineering (Institution QS rank 200+)
+
+Professional experience:
+* Co-Founder for <2 years
+* Mask Layout Designer for <2 years in the `Telecommunications Services` industry (10001+ employees)
+* Systems Engineer for <2 years in the `Aerospace, Defense & Ship/Space` industry (51-200 employees)
+* Personal Assistant for <2 years in the `Higher Education & Research` industry (10001+ employees)
+"
+78b2487a-1f5b-47d0-9423-556915d1e5d9,0,Software Development,[],[],"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""99""
+  }
+]","[
+  {
+    ""role"": ""Engineer"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Telecommunications Services"",
+    ""duration"": ""6-9""
+  }
+]","This founder leads a startup in the Software Development industry.
+Education:
+* BS in Computer Science (Institution QS rank 99)
+
+Professional experience:
+* Engineer for 6-9 years in the `Telecommunications Services` industry (11-50 employees)
+"
+75030b44-0e0a-42ca-ac12-0398da9c1357,0,IT Services & Digital Solutions,[],"[{'price_usd': 'Undisclosed', 'acquired_by_well_known': False}]","[
+  {
+    ""degree"": ""MBA"",
+    ""field"": ""Business Management"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": """",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Master"",
+    ""field"": ""Mathematics"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Owner, Franchisee"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Food & Beverage Services & Retail"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Real Estate Deals"",
+    ""company_size"": """",
+    ""industry"": ""Real Estate & Leasing"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Executive Director, Board Member"",
+    ""company_size"": """",
+    ""industry"": ""Building Materials, Construction & Architecture"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder, CEO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Real Estate & Leasing"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Product Manager (HCM)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Senior Project Manager, Consultant"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Program Manager (Client)"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Software Engineer, Dev Lead"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Product Lead"",
+    ""company_size"": """",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* MBA in Business Management (Institution QS rank 200+)
+* in Computer Science (Institution QS rank 200+)
+* Master in Mathematics (Institution QS rank 200+)
+
+Professional experience:
+* Owner, Franchisee for 6-9 years in the `Food & Beverage Services & Retail` industry (1001-5000 employees)
+* Real Estate Deals for <2 years in the `Real Estate & Leasing` industry
+* Executive Director, Board Member for <2 years in the `Building Materials, Construction & Architecture` industry
+* Founder, CEO for 4-5 years in the `Real Estate & Leasing` industry (11-50 employees)
+* Product Manager (HCM) for 4-5 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* Senior Project Manager, Consultant for <2 years in the `Software Development` industry (10001+ employees)
+* Program Manager (Client) for <2 years in the `Financial Services` industry (201-500 employees)
+* Senior Software Engineer, Dev Lead for <2 years in the `Software Development` industry (10001+ employees)
+* Product Lead for <2 years in the `IT Services & Digital Solutions` industry
+* Founder for <2 years
+
+ They have overseen one acquisition as a founder: one Undisclosed in value."
+156638da-e7d3-40b7-b306-0644510a32cd,0,"Technology, Information & Internet Platforms",,,"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": ""Marketing and Operation and Entrepreneurial Management"",
+    ""qs_ranking"": ""26""
+  },
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Economics"",
+    ""qs_ranking"": ""179""
+  }
+]","[
+  {
+    ""role"": ""Business Development, Global Marketing Manager"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Assistant Manager"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Associate Manager"",
+    ""company_size"": """",
+    ""industry"": ""Publishing"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* MBA in Marketing and Operation and Entrepreneurial Management (Institution QS rank 26)
+* Bachelor in Economics (Institution QS rank 179)
+
+Professional experience:
+* Business Development, Global Marketing Manager for <2 years in the `Technology, Information & Internet Platforms` industry (11-50 employees)
+* Assistant Manager for 2-3 years in the `Financial Services` industry (10001+ employees)
+* Associate Manager for 4-5 years in the `Publishing` industry
+"
+d55ee29a-ce6a-4e76-ad94-0b145f8baaf0,0,Chemical & Pharmaceutical Manufacturing,,,"[
+  {
+    ""degree"": """",
+    ""field"": ""International Trade"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Franchise Owner"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Food & Beverage Services & Retail"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Operations Manager"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Audit Manager"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Chemical & Pharmaceutical Manufacturing industry.
+Education:
+* in International Trade (Institution QS rank 200+)
+
+Professional experience:
+* Franchise Owner for 4-5 years in the `Food & Beverage Services & Retail` industry (501-1000 employees)
+* Operations Manager for 4-5 years
+* Audit Manager for 4-5 years
+"
+f166daef-6c16-4f8b-aaa7-6103ddd43419,0,Clinical & Diagnostic Healthcare,,,"[
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""6""
+  }
+]","[
+  {
+    ""role"": """",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Clinical & Diagnostic Healthcare""
+  }
+]","This founder leads a startup in the Clinical & Diagnostic Healthcare industry.
+Education:
+* (Institution QS rank 6)
+
+Professional experience:
+* in the `Clinical & Diagnostic Healthcare` industry (10001+ employees)
+"
+4ca7b889-052c-449f-8422-5d452593c7eb,0,,,,,"[
+  {
+    ""role"": ""Chairman of The Board"",
+    ""company_size"": """",
+    ""industry"": """"
+  }
+]","This founder leads a startup
+Professional experience:
+* Chairman of The Board
+"
+a51fef83-c8d2-4fb2-8366-13644160fb38,0,Transportation & Logistics,,,"[
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Design Engineer"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Consumer Electronics & Sporting Goods"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Quality Control Professional"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Transportation & Logistics industry.
+Education:
+* (Institution QS rank 200+)
+
+Professional experience:
+* Design Engineer for 2-3 years in the `Consumer Electronics & Sporting Goods` industry (501-1000 employees)
+* Quality Control Professional for <2 years
+"
+11354f1a-a1d2-4d6e-b1dd-765a5e83e317,0,"Marketing, Advertising & Events",,,"[
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Business Management"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Director (Sales, Performance)"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Marketing, Advertising & Events"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Account Executive"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Account Executive"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Marketing, Advertising & Events"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": """",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Marketing, Advertising & Events industry.
+Education:
+* Bachelor in Business Management (Institution QS rank 200+)
+
+Professional experience:
+* Director (Sales, Performance) for <2 years in the `Marketing, Advertising & Events` industry (51-200 employees)
+* Senior Account Executive for <2 years
+* Senior Account Executive for <2 years in the `Marketing, Advertising & Events` industry (51-200 employees)
+* for <2 years in the `Financial Services` industry (201-500 employees)
+"
+e5fdfdc7-a3ba-462c-ae9d-baa30c77bb5f,0,Renewable Energy & Climate Tech,,,"[
+  {
+    ""degree"": """",
+    ""field"": ""Sociobiology and Zoology and Robotics and Biomimicry and Design"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Founder, CTO"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": "">9""
+  }
+]","This founder leads a startup in the Renewable Energy & Climate Tech industry.
+Education:
+* in Sociobiology and Zoology and Robotics and Biomimicry and Design (Institution QS rank 200+)
+
+Professional experience:
+* Founder, CTO for >9 years
+"
+5e93094c-78cf-4791-aec3-16f410472679,0,Software Development,,,"[
+  {
+    ""degree"": ""Master"",
+    ""field"": ""Informatics"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Master"",
+    ""field"": ""Entrepreneurship"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Master"",
+    ""field"": ""Informatics"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Informatics"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Trainer, Coach"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Data Scientist (Computer Vision)"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Medical Equipment Manufacturing"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Data Scientist (Computer Vision)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Software Development industry.
+Education:
+* Master in Informatics (Institution QS rank 200+)
+* Master in Entrepreneurship (Institution QS rank 200+)
+* Master in Informatics (Institution QS rank 200+)
+* Bachelor in Informatics (Institution QS rank 200+)
+* (Institution QS rank 200+)
+
+Professional experience:
+* Trainer, Coach for 4-5 years in the `Higher Education & Research` industry (2-10 employees)
+* Data Scientist (Computer Vision) for <2 years in the `Medical Equipment Manufacturing` industry (11-50 employees)
+* Data Scientist (Computer Vision) for <2 years in the `Software Development` industry (10001+ employees)
+"
+1ab67494-ef4e-43dd-bf8d-211d32a3802e,0,Financial Services,,,"[
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Social Sciences"",
+    ""qs_ranking"": ""1""
+  },
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Economics"",
+    ""qs_ranking"": ""4""
+  }
+]","[
+  {
+    ""role"": ""Director"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""6-9""
+  }
+]","This founder leads a startup in the Financial Services industry.
+Education:
+* Bachelor in Social Sciences (Institution QS rank 1)
+* BA in Economics (Institution QS rank 4)
+
+Professional experience:
+* Director for 6-9 years
+"
+8d2a8904-e21f-4496-a2a6-00f43103afc0,0,IT Services & Digital Solutions,,,"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": """",
+    ""qs_ranking"": ""84""
+  },
+  {
+    ""degree"": ""Bachelor (Hons)"",
+    ""field"": ""Organizational Change and Innovation"",
+    ""qs_ranking"": ""46""
+  },
+  {
+    ""degree"": ""BCom"",
+    ""field"": ""Management and Employment Relations and Accounting"",
+    ""qs_ranking"": ""46""
+  }
+]","[
+  {
+    ""role"": ""Board Member"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Board Member"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Board Member"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Education & Training Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder, Co-Lead (Business Mentoring Connections)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Advisory Board Member (Startup Women)"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Human Resources Partner"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Human Resources Partner"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""VP (Board)"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Non\u2011Profit, NGO & Associations"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Human Capital Consultant"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Management, Strategy & Professional Services"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Advisory Council Member"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* MBA (Institution QS rank 84)
+* Bachelor (Hons) in Organizational Change and Innovation (Institution QS rank 46)
+* BCom in Management and Employment Relations and Accounting (Institution QS rank 46)
+
+Professional experience:
+* Board Member for >9 years in the `Higher Education & Research` industry (10001+ employees)
+* Board Member for <2 years in the `Higher Education & Research` industry (2-10 employees)
+* Board Member for <2 years in the `Education & Training Services` industry (2-10 employees)
+* Founder, Co-Lead (Business Mentoring Connections) for 6-9 years in the `Higher Education & Research` industry (10001+ employees)
+* Advisory Board Member (Startup Women) for <2 years
+* Human Resources Partner for 2-3 years in the `Software Development` industry (10001+ employees)
+* Human Resources Partner for <2 years in the `Software Development` industry (10001+ employees)
+* VP (Board) for <2 years in the `Non‑Profit, NGO & Associations` industry (2-10 employees)
+* Senior Human Capital Consultant for 4-5 years in the `Management, Strategy & Professional Services` industry (10001+ employees)
+* Advisory Council Member for 2-3 years in the `Higher Education & Research` industry (10001+ employees)
+"
+045a8b07-733e-4c77-931d-6488d2b02236,0,Software Development,,,"[
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Operations Research"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""President"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Founder, Chief Scientist"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Systems Architect"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Systems Architect"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Artificial Intelligence Consultant"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Management, Strategy & Professional Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Software Development industry.
+Education:
+* BA in Operations Research (Institution QS rank 200+)
+
+Professional experience:
+* President for 4-5 years
+* Founder, Chief Scientist for 2-3 years
+* Systems Architect for >9 years in the `Financial Services` industry (10001+ employees)
+* Systems Architect for <2 years
+* Artificial Intelligence Consultant for <2 years in the `Management, Strategy & Professional Services` industry (1001-5000 employees)
+"
+8fd77032-00df-4d6c-9433-2be079cb3647,0,General Retail & Consumer Goods,,,"[
+  {
+    ""degree"": ""BA"",
+    ""field"": """",
+    ""qs_ranking"": ""14""
+  }
+]","[
+  {
+    ""role"": ""Owner"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Sales, Marketing"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""6-9""
+  }
+]","This founder leads a startup in the General Retail & Consumer Goods industry.
+Education:
+* BA (Institution QS rank 14)
+
+Professional experience:
+* Owner for <2 years
+* Sales, Marketing for 6-9 years
+"
+a3c7c899-fac4-49a8-854a-c7dfdc0affc6,0,Financial Services,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Business Administration and Finance and Accounting"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""VP (Structured Products & CDS)"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Finance & Accounting Specialist"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Financial Services industry.
+Education:
+* BS in Business Administration and Finance and Accounting (Institution QS rank 200+)
+
+Professional experience:
+* VP (Structured Products & CDS) for 2-3 years
+* Finance & Accounting Specialist for <2 years
+"
+a211ca60-5795-4322-a9bc-ca7bcf82ce8e,0,Education & Training Services,,,"[
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Biology"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": """",
+    ""field"": ""Evolutionary Genetics"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""22""
+  },
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""84""
+  },
+  {
+    ""degree"": """",
+    ""field"": ""Astrobiology"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": """",
+    ""field"": ""Astrobiology"",
+    ""qs_ranking"": ""101""
+  }
+]","[
+  {
+    ""role"": ""Founder, Director"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Founder, Director"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Founder, CEO"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder, CEO"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Researcher, Teacher"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Research Services & Market Analysis"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Researcher, Teacher"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Research Services & Market Analysis"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Education & Training Services industry.
+Education:
+* Bachelor in Biology (Institution QS rank 200+)
+* in Evolutionary Genetics (Institution QS rank 200+)
+* (Institution QS rank 22)
+* (Institution QS rank 84)
+* in Astrobiology (Institution QS rank 200+)
+* in Astrobiology (Institution QS rank 101)
+
+Professional experience:
+* Founder, Director for 6-9 years
+* Founder, Director for 4-5 years
+* Founder, CEO for <2 years in the `IT Services & Digital Solutions` industry (2-10 employees)
+* Founder, CEO for 2-3 years
+* Researcher, Teacher for 2-3 years in the `Research Services & Market Analysis` industry (5001-10000 employees)
+* Researcher, Teacher for 4-5 years in the `Research Services & Market Analysis` industry (5001-10000 employees)
+"
+db443310-f234-43d0-a283-f9b281bb297d,0,Entertainment & Live Arts,,,"[
+  {
+    ""degree"": ""MFA"",
+    ""field"": ""Screenwriting"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Cinema Studies"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": """",
+    ""field"": ""Psychology"",
+    ""qs_ranking"": ""79""
+  }
+]","[
+  {
+    ""role"": ""Consultant"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Film, TV, Animation & Photography""
+  },
+  {
+    ""role"": ""Founder"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Entertainment & Live Arts industry.
+Education:
+* MFA in Screenwriting (Institution QS rank 200+)
+* BA in Cinema Studies (Institution QS rank 200+)
+* in Psychology (Institution QS rank 79)
+
+Professional experience:
+* Consultant in the `Film, TV, Animation & Photography` industry (2-10 employees)
+* Founder for 4-5 years
+"
+79dee5a4-e0f3-4fd2-8290-fdfd0ec6400a,0,"Technology, Information & Internet Platforms",,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Entrepreneurship and Corporate Innovation and Finance"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Entrepreneurship and Finance"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Advisor"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Business Development Manager"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Orr Fellow"",
+    ""company_size"": ""51-200"",
+    ""industry"": ""Non\u2011Profit, NGO & Associations"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Marketing & Brand Representative"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* BS in Entrepreneurship and Corporate Innovation and Finance (Institution QS rank 200+)
+* BS in Entrepreneurship and Finance (Institution QS rank 200+)
+
+Professional experience:
+* Advisor for <2 years
+* Business Development Manager for <2 years
+* Orr Fellow for <2 years in the `Non‑Profit, NGO & Associations` industry (51-200)
+* Marketing & Brand Representative for <2 years
+"
+b5d8c7ad-7eca-478c-ae30-459982c7af7f,0,Wellness & Community Health,,,"[
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Physical Therapy"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Workshop"",
+    ""field"": """",
+    ""qs_ranking"": ""4""
+  }
+]","[
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Sports Teams & Leagues"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Professor"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Wellness & Community Health"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Speaker"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Wellness & Community Health"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Founder"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": """",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Wellness & Community Health industry.
+Education:
+* Bachelor in Physical Therapy (Institution QS rank 200+)
+* Workshop (Institution QS rank 4)
+
+Professional experience:
+* Co-Founder for <2 years in the `Sports Teams & Leagues` industry (11-50 employees)
+* Professor for 6-9 years in the `Wellness & Community Health` industry (11-50 employees)
+* Speaker for 6-9 years in the `Wellness & Community Health` industry (11-50 employees)
+* Founder for >9 years
+* Co-Founder for <2 years in the `Clinical & Diagnostic Healthcare` industry
+"
+fc38d71b-d60d-4f62-961e-a3fea051e41f,0,Clinical & Diagnostic Healthcare,,,"[
+  {
+    ""degree"": ""MD"",
+    ""field"": ""Medicine"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Regional Development"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Professional Ski Patroller"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Entertainment & Live Arts"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Clinical & Diagnostic Healthcare industry.
+Education:
+* MD in Medicine (Institution QS rank 200+)
+* Bachelor in Regional Development (Institution QS rank 200+)
+
+Professional experience:
+* Professional Ski Patroller for <2 years in the `Entertainment & Live Arts` industry (501-1000 employees)
+"
+330a2a9c-2463-4b73-95b3-ae711fd8228c,0,Research Services & Market Analysis,,,"[
+  {
+    ""degree"": ""PhD"",
+    ""field"": ""Molecular Pathology"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Neurobiology and Neurosciences"",
+    ""qs_ranking"": ""77""
+  }
+]","[
+  {
+    ""role"": ""Professor (Pediatrics), Faculty"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Clinical & Diagnostic Healthcare""
+  },
+  {
+    ""role"": ""Research Fellow"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Research Services & Market Analysis"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Research Graduate, Postdoctoral Fellow"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Research Services & Market Analysis"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Research Services & Market Analysis industry.
+Education:
+* PhD in Molecular Pathology (Institution QS rank 200+)
+* BS in Neurobiology and Neurosciences (Institution QS rank 77)
+
+Professional experience:
+* Professor (Pediatrics), Faculty in the `Clinical & Diagnostic Healthcare` industry (10001+ employees)
+* Research Fellow for 4-5 years in the `Research Services & Market Analysis` industry (501-1000 employees)
+* Research Graduate, Postdoctoral Fellow for 4-5 years in the `Research Services & Market Analysis` industry (501-1000 employees)
+"
+c9c9cfd0-a4fa-4aa0-9d93-1877a64e00d6,0,IT Services & Digital Solutions,,,"[
+  {
+    ""degree"": ""Bachelor of Engineering"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Software Developer"",
+    ""company_size"": """",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Software Developer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* Bachelor of Engineering in Computer Science (Institution QS rank 200+)
+
+Professional experience:
+* Software Developer for <2 years in the `Software Development` industry
+* Software Developer for <2 years
+"
+116df513-1c01-4b7c-ab82-5fc7c7468c3b,0,Financial Services,[],[],"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": ""International Marketing"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""MA"",
+    ""field"": ""Military History and Strategic Leadership"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Technology, Sales & Partnership Director"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Director (Business Development)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Aerospace, Defense & Ship/Space"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Director (Emerging Markets)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Director (Sales, Asia Pacific)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Practice Manager"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Financial Services industry.
+Education:
+* MBA in International Marketing (Institution QS rank 200+)
+* MA in Military History and Strategic Leadership (Institution QS rank 200+)
+
+Professional experience:
+* Technology, Sales & Partnership Director for 2-3 years in the `Software Development` industry (11-50 employees)
+* Director (Business Development) for <2 years in the `Aerospace, Defense & Ship/Space` industry (10001+ employees)
+* Director (Emerging Markets) for 2-3 years in the `Software Development` industry (10001+ employees)
+* Director (Sales, Asia Pacific) for <2 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* Practice Manager for 2-3 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+"
+394a8233-1407-4e4f-ad5d-b6f8c75cd650,0,"Technology, Information & Internet Platforms",,,"[
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Spanish and Business and Marketing"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Director (International Partnerships)"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Internet Media & Publishing"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Strategic Marketing Consultant, On Air Travel & Wedding Expert, Content Creator"",
+    ""company_size"": ""myself only employees"",
+    ""industry"": ""Broadcast Media Production & Distribution"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Media Sales & Business Development Manager"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Internet Media & Publishing"",
+    ""duration"": "">9""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* BA in Spanish and Business and Marketing (Institution QS rank 200+)
+
+Professional experience:
+* Director (International Partnerships) for 6-9 years in the `Internet Media & Publishing` industry (501-1000 employees)
+* Strategic Marketing Consultant, On Air Travel & Wedding Expert, Content Creator for 2-3 years in the `Broadcast Media Production & Distribution` industry (myself only employees)
+* Media Sales & Business Development Manager for >9 years in the `Internet Media & Publishing` industry (501-1000 employees)
+"
+18af1f09-909c-4500-ac7a-0c870c7a9725,0,IT Services & Digital Solutions,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Mathematics and Physics"",
+    ""qs_ranking"": ""6""
+  },
+  {
+    ""degree"": ""PhD"",
+    ""field"": ""Mathematics"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Statistics"",
+    ""qs_ranking"": ""6""
+  },
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Data Science"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Mathematics"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""CPO"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Research Services & Market Analysis"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Director (Data Science)"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""General Retail & Consumer Goods"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Data Scientist"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""General Retail & Consumer Goods"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Analytics Consultant"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Gaming"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Statistical Analyst"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""General Retail & Consumer Goods"",
+    ""duration"": "">9""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* BS in Mathematics and Physics (Institution QS rank 6)
+* PhD in Mathematics (Institution QS rank 200+)
+* MS in Statistics (Institution QS rank 6)
+* MS in Data Science (Institution QS rank 200+)
+* MS in Mathematics (Institution QS rank 200+)
+
+Professional experience:
+* CPO for <2 years in the `Research Services & Market Analysis` industry (51-200 employees)
+* Director (Data Science) for <2 years in the `General Retail & Consumer Goods` industry (501-1000 employees)
+* Data Scientist for 2-3 years in the `General Retail & Consumer Goods` industry (501-1000 employees)
+* Analytics Consultant for <2 years in the `Gaming` industry (51-200 employees)
+* Statistical Analyst for >9 years in the `General Retail & Consumer Goods` industry (501-1000 employees)
+"
+f0f3ad28-f377-47ba-a0f0-720f362be493,0,,,,,"[
+  {
+    ""role"": ""Business Development Manager"",
+    ""company_size"": """",
+    ""industry"": ""Aerospace, Defense & Ship/Space""
+  },
+  {
+    ""role"": ""Regional Operations Manager (Europe & Asia Pacific)"",
+    ""company_size"": """",
+    ""industry"": ""Aerospace, Defense & Ship/Space""
+  },
+  {
+    ""role"": ""Managing Director"",
+    ""company_size"": """",
+    ""industry"": """"
+  },
+  {
+    ""role"": ""Branch Manager"",
+    ""company_size"": """",
+    ""industry"": ""Aerospace, Defense & Ship/Space""
+  }
+]","This founder leads a startup
+Professional experience:
+* Business Development Manager in the `Aerospace, Defense & Ship/Space` industry
+* Regional Operations Manager (Europe & Asia Pacific) in the `Aerospace, Defense & Ship/Space` industry
+* Managing Director
+* Branch Manager in the `Aerospace, Defense & Ship/Space` industry
+"
+cf6eb8b3-12ba-473f-ad99-c29a0655d96b,0,Software Development,[],[],"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Software Engineering"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""150""
+  },
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Design Consultant & Advisor"",
+    ""company_size"": ""myself only employees"",
+    ""industry"": ""Creative & Graphic Design"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Co-Founder, Lead Product Designer"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Co-Founder, Product Designer, Web Developer"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Graphic Designer"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Management, Strategy & Professional Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Software Development industry.
+Education:
+* BS in Software Engineering (Institution QS rank 200+)
+* (Institution QS rank 150)
+* (Institution QS rank 200+)
+
+Professional experience:
+* Design Consultant & Advisor for 4-5 years in the `Creative & Graphic Design` industry (myself only employees)
+* Co-Founder, Lead Product Designer for 2-3 years in the `Software Development` industry (2-10 employees)
+* Co-Founder, Product Designer, Web Developer for <2 years in the `Technology, Information & Internet Platforms` industry (2-10 employees)
+* Graphic Designer for <2 years in the `Management, Strategy & Professional Services` industry (51-200 employees)
+"
+56f3101a-c3c5-46b0-89d7-23e78da12dc3,0,"Management, Strategy & Professional Services",[],[],"[
+  {
+    ""degree"": """",
+    ""field"": ""Nanotechnology"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Humanities"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Founding Member"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Marketing, Advertising & Events"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Board Member, External Advisory Board Member"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Board Member"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Philanthropy & Fundraising"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Senior Policy Advisor"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder, Chairman, President, COO"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder, President & CEO"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Renewable Energy & Climate Tech"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Board Member"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""Museums, Fine Arts & Heritage"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Director (Government Relations)"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Non\u2011Profit, NGO & Associations"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Deputy Director (Community Relations)"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Outreach Coordinator"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Management, Strategy & Professional Services industry.
+Education:
+* in Nanotechnology (Institution QS rank 200+)
+* BA in Humanities (Institution QS rank 200+)
+
+Professional experience:
+* Founding Member for 2-3 years in the `Marketing, Advertising & Events` industry (11-50 employees)
+* Board Member, External Advisory Board Member for 2-3 years
+* Board Member for 2-3 years in the `Philanthropy & Fundraising` industry (11-50 employees)
+* Senior Policy Advisor for <2 years
+* Founder, Chairman, President, COO for <2 years in the `Technology, Information & Internet Platforms` industry (2-10 employees)
+* Founder, President & CEO for 2-3 years in the `Renewable Energy & Climate Tech` industry (2-10 employees)
+* Board Member for <2 years in the `Museums, Fine Arts & Heritage` industry (201-500 employees)
+* Director (Government Relations) for <2 years in the `Non‑Profit, NGO & Associations` industry (51-200 employees)
+* Deputy Director (Community Relations) for 2-3 years
+* Outreach Coordinator for <2 years
+"
+d259ddab-6bca-43f1-a68d-9035fabd5c7c,0,Industrial & Agricultural Machinery Manufacturing,,,"[
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Hospitality and Tourism Management"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Business Development Manager"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Hospitality & Tourism"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Industrial & Agricultural Machinery Manufacturing industry.
+Education:
+* Bachelor in Hospitality and Tourism Management (Institution QS rank 200+)
+
+Professional experience:
+* Business Development Manager for 2-3 years in the `Hospitality & Tourism` industry (501-1000 employees)
+"
+35405bbe-2b42-48bd-9cac-2f7faf422c73,0,Software Development,,,"[
+  {
+    ""degree"": ""Master"",
+    ""field"": ""Computer and Information Science"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Computer and Information Science"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Lead iOS Engineer"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Lead Mobile Engineer"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder, CEO"",
+    ""company_size"": ""myself only employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Software Development industry.
+Education:
+* Master in Computer and Information Science (Institution QS rank 200+)
+* Bachelor in Computer and Information Science (Institution QS rank 200+)
+
+Professional experience:
+* Lead iOS Engineer for <2 years in the `Technology, Information & Internet Platforms` industry (11-50 employees)
+* Lead Mobile Engineer for <2 years in the `Technology, Information & Internet Platforms` industry (11-50 employees)
+* Founder, CEO for 2-3 years in the `Software Development` industry (myself only employees)
+"
+489d03ed-32b5-4f03-a71f-41cb730a65d3,0,IT Services & Digital Solutions,,,"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": ""Business Administration"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BE"",
+    ""field"": ""Engineering"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Investor, Executive"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Electronic & Precision Equipment Manufacturing"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Chief Business Officer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""VP (Sales)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* MBA in Business Administration (Institution QS rank 200+)
+* BE in Engineering (Institution QS rank 200+)
+
+Professional experience:
+* Investor, Executive for 2-3 years in the `Electronic & Precision Equipment Manufacturing` industry (11-50 employees)
+* Chief Business Officer for 2-3 years
+* VP (Sales) for 4-5 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+"
+b8cb9834-0d7e-4bc0-b5a8-2bd97d34b16d,0,"Technology, Information & Internet Platforms","[{'amount_raised_usd': 'Undisclosed', 'valuation_usd': 'Undisclosed'}]","[{'price_usd': 'Undisclosed', 'acquired_by_well_known': False}]","[
+  {
+    ""degree"": ""Master"",
+    ""field"": ""Entrepreneurship"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""CE"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Social Media Global Agenda Council Member"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Non\u2011Profit, NGO & Associations"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder, CEO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Non\u2011Profit, NGO & Associations"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""General Manager"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""CEO"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Founder"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Consultant"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Video Product Manager"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Web Content Manager"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder, CEO"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Founder, CTO"",
+    ""company_size"": """",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* Master in Entrepreneurship (Institution QS rank 200+)
+* CE in Computer Science (Institution QS rank 200+)
+
+Professional experience:
+* Social Media Global Agenda Council Member for <2 years in the `Non‑Profit, NGO & Associations` industry (501-1000 employees)
+* Founder, CEO for <2 years in the `Non‑Profit, NGO & Associations` industry (11-50 employees)
+* General Manager for <2 years in the `Software Development` industry (51-200 employees)
+* CEO for <2 years in the `Technology, Information & Internet Platforms` industry (2-10 employees)
+* Co-Founder for 2-3 years
+* Founder for <2 years
+* Consultant for <2 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* Video Product Manager for <2 years
+* Web Content Manager for <2 years in the `Financial Services` industry (5001-10000 employees)
+* Founder, CEO for 6-9 years in the `IT Services & Digital Solutions` industry (1001-5000 employees)
+* Founder, CTO for 2-3 years in the `Technology, Information & Internet Platforms` industry
+
+ They previously led their company(s) through one IPO with undisclosed valuation. They have overseen one acquisition as a founder: one Undisclosed in value."
+1b7e53f8-a9f0-44a7-9221-24d90dfd361c,0,"Technology, Information & Internet Platforms",[],"[{'price_usd': 'Undisclosed', 'acquired_by_well_known': False}]","[
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Telecommunications"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Director (Product Management)"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Product Manager (Web Search)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Product Manager (Weblogic Integration)"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Product Manager (CTO's Office)"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Research Analyst"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Management, Strategy & Professional Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* BA in Telecommunications (Institution QS rank 200+)
+
+Professional experience:
+* Co-Founder for 2-3 years in the `Technology, Information & Internet Platforms` industry (2-10 employees)
+* Director (Product Management) for <2 years
+* Senior Product Manager (Web Search) for <2 years in the `Software Development` industry (10001+ employees)
+* Product Manager (Weblogic Integration) for 2-3 years in the `Software Development` industry (1001-5000 employees)
+* Product Manager (CTO's Office) for 2-3 years in the `Software Development` industry (51-200 employees)
+* Research Analyst for <2 years in the `Management, Strategy & Professional Services` industry (10001+ employees)
+
+ They have overseen one acquisition as a founder: one Undisclosed in value."
+3df9819e-43be-4782-8f9b-e72f94c8f2fc,0,"Technology, Information & Internet Platforms",[],[],"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Science, Technology & Society"",
+    ""qs_ranking"": ""6""
+  }
+]","[
+  {
+    ""role"": ""Founder"",
+    ""company_size"": """",
+    ""industry"": """"
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* BS in Science, Technology & Society (Institution QS rank 6)
+
+Professional experience:
+* Founder
+"
+d8030042-e397-4bd0-baff-ee1a4e89d7fd,0,Software Development,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Investor, Advisor"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""COO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Entrepreneur-in-Residence"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Owner"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Board Member"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""VP (Advanced Technology)"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""CEO"",
+    ""company_size"": """",
+    ""industry"": ""Software Development"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Staff Programmer"",
+    ""company_size"": """",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Software Development industry.
+Education:
+* BS in Computer Science (Institution QS rank 200+)
+
+Professional experience:
+* Investor, Advisor for 2-3 years
+* COO for <2 years in the `Clinical & Diagnostic Healthcare` industry (11-50 employees)
+* Entrepreneur-in-Residence for <2 years in the `Software Development` industry (2-10 employees)
+* Owner for 2-3 years
+* Board Member for <2 years in the `Software Development` industry (11-50 employees)
+* VP (Advanced Technology) for <2 years in the `Software Development` industry (501-1000 employees)
+* CEO for 4-5 years in the `Software Development` industry
+* Staff Programmer for 4-5 years in the `IT Services & Digital Solutions` industry
+"
+6a53585a-eea3-454b-bb38-bfb93fac9604,0,Electronic & Precision Equipment Manufacturing,,,"[
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Computer Science"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Fine Arts"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Founder"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""IT Asset Management Analyst"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Website Designer, Audio Engineer"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Telecommunications Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Founder"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Marketing, Advertising & Events"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Graphic Designer"",
+    ""company_size"": """",
+    ""industry"": ""Government Policy & Legal Services"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Graphic Designer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Paralegal"",
+    ""company_size"": """",
+    ""industry"": ""Government Policy & Legal Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Electronic & Precision Equipment Manufacturing industry.
+Education:
+* MS in Computer Science (Institution QS rank 200+)
+* BS in Fine Arts (Institution QS rank 200+)
+
+Professional experience:
+* Founder for 2-3 years
+* IT Asset Management Analyst for <2 years in the `Financial Services` industry (1001-5000 employees)
+* Website Designer, Audio Engineer for <2 years in the `Telecommunications Services` industry (11-50 employees)
+* Founder for 2-3 years in the `Marketing, Advertising & Events` industry (2-10 employees)
+* Graphic Designer for 2-3 years in the `Government Policy & Legal Services` industry
+* Graphic Designer for >9 years
+* Paralegal for <2 years in the `Government Policy & Legal Services` industry
+"
+4688610e-c240-40bd-82ba-4483a9dafc05,0,"Marketing, Advertising & Events",,,"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": ""Marketing"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Biotechnology"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Founder, CEO"",
+    ""company_size"": ""11-50"",
+    ""industry"": ""Motor Vehicle"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Brand Manager (Purina ONE & Purina Snacks Portfolio)"",
+    ""company_size"": ""5001-10000"",
+    ""industry"": ""Industrial & Agricultural Machinery Manufacturing"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Product Manager (System X)"",
+    ""company_size"": ""10001+"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Consultant"",
+    ""company_size"": ""201-500"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Marketing, Advertising & Events industry.
+Education:
+* MBA in Marketing (Institution QS rank 200+)
+* BS in Biotechnology (Institution QS rank 200+)
+
+Professional experience:
+* Founder, CEO for 2-3 years in the `Motor Vehicle` industry (11-50)
+* Brand Manager (Purina ONE & Purina Snacks Portfolio) for 4-5 years in the `Industrial & Agricultural Machinery Manufacturing` industry (5001-10000)
+* Product Manager (System X) for <2 years in the `IT Services & Digital Solutions` industry (10001+)
+* Consultant for 2-3 years in the `Software Development` industry (201-500)
+"
+8e09f48a-0a9d-41e5-af52-6dd8c8d6bfaf,0,"Technology, Information & Internet Platforms",,,"[
+  {
+    ""degree"": ""MBA"",
+    ""field"": ""Marketing"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Founder, CEO"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Founder, President"",
+    ""company_size"": """",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* MBA in Marketing (Institution QS rank 200+)
+* Bachelor (Institution QS rank 200+)
+
+Professional experience:
+* Founder, CEO for 6-9 years in the `Technology, Information & Internet Platforms` industry (2-10 employees)
+* Founder, President for <2 years in the `Technology, Information & Internet Platforms` industry
+"
+e122a7ba-944a-4c93-b6f6-23d07df811fc,0,"Technology, Information & Internet Platforms",[],[],"[
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Advertising"",
+    ""qs_ranking"": ""32""
+  },
+  {
+    ""degree"": """",
+    ""field"": ""Chinese Language and Literature"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Entrepreneur-in-Residence"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Venture Capital & Private Equity"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Co-Founder, CEO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Co-Founder"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""General Retail & Consumer Goods"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* Bachelor in Advertising (Institution QS rank 32)
+* in Chinese Language and Literature (Institution QS rank 200+)
+
+Professional experience:
+* Entrepreneur-in-Residence for <2 years in the `Venture Capital & Private Equity` industry (2-10 employees)
+* Co-Founder, CEO for 2-3 years in the `IT Services & Digital Solutions` industry (11-50 employees)
+* Co-Founder for 2-3 years in the `General Retail & Consumer Goods` industry (2-10 employees)
+"
+8a9bab23-2c88-467f-b814-66d8beda9b89,0,IT Services & Digital Solutions,[],"[{'price_usd': 'Undisclosed', 'acquired_by_well_known': False}]","[
+  {
+    ""degree"": ""MBA"",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Political Science"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Executive Director (Loyalty)"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""CEO, President"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""VP (Business Development)"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""CEO, President"",
+    ""company_size"": """",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Director (Business Development)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Financial Analyst"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* MBA (Institution QS rank 200+)
+* BA in Political Science (Institution QS rank 200+)
+
+Professional experience:
+* Executive Director (Loyalty) for 2-3 years in the `Financial Services` industry (1001-5000 employees)
+* CEO, President for 6-9 years in the `Software Development` industry (51-200 employees)
+* VP (Business Development) for <2 years in the `Technology, Information & Internet Platforms` industry (1001-5000 employees)
+* CEO, President for <2 years in the `Financial Services` industry
+* Director (Business Development) for 2-3 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* Financial Analyst for <2 years in the `Financial Services` industry (10001+ employees)
+
+ They have overseen one acquisition as a founder: one Undisclosed in value."
+3506c2a1-1895-4ebd-9ca8-0d515fa74c9b,0,IT Services & Digital Solutions,,,,"[
+  {
+    ""role"": ""Software Developer"",
+    ""company_size"": """",
+    ""industry"": ""Marketing, Advertising & Events"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Software Developer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Software Developer, System Administrator"",
+    ""company_size"": """",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Professional experience:
+* Software Developer for <2 years in the `Marketing, Advertising & Events` industry
+* Software Developer for 2-3 years
+* Software Developer, System Administrator for 4-5 years in the `IT Services & Digital Solutions` industry
+"
+9269a6f4-2ca7-405f-83f0-32dc3b24b5ea,0,Software Development,,,,"[
+  {
+    ""role"": ""Senior Director (Product Management, Sciencecloud)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Head (Software Business Unit)"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Biotechnology & Nanotechnology Research"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Director (IT & Automation)"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Biotechnology & Nanotechnology Research"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Global Head (Research IT)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Chemical & Pharmaceutical Manufacturing"",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Software Development industry.
+Professional experience:
+* Senior Director (Product Management, Sciencecloud) for 4-5 years in the `Software Development` industry (10001+ employees)
+* Head (Software Business Unit) for 6-9 years in the `Biotechnology & Nanotechnology Research` industry (11-50 employees)
+* Director (IT & Automation) for 6-9 years in the `Biotechnology & Nanotechnology Research` industry (11-50 employees)
+* Global Head (Research IT) for 4-5 years in the `Chemical & Pharmaceutical Manufacturing` industry (10001+ employees)
+"
+1654955b-05c4-47a0-a9c2-0af309b418f4,0,Education & Training Services,,,"[
+  {
+    ""degree"": ""MEd"",
+    ""field"": ""Elementary Education"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Philosophy and Psychology and Music"",
+    ""qs_ranking"": ""141""
+  }
+]","[
+  {
+    ""role"": ""CEO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Math & Science Teacher"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Education & Training Services"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Corps Member"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Education & Training Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Education & Training Services industry.
+Education:
+* MEd in Elementary Education (Institution QS rank 200+)
+* BA in Philosophy and Psychology and Music (Institution QS rank 141)
+
+Professional experience:
+* CEO for <2 years (11-50 employees)
+* Math & Science Teacher for 2-3 years in the `Education & Training Services` industry (10001+ employees)
+* Corps Member for <2 years in the `Education & Training Services` industry (1001-5000 employees)
+"
+6a597dd9-008a-4107-99bc-76996ec4955a,0,Internet Media & Publishing,,,"[
+  {
+    ""degree"": ""Master of Business Administration"",
+    ""field"": ""Master of Business Administration"",
+    ""qs_ranking"": ""6""
+  },
+  {
+    ""degree"": ""BA"",
+    ""field"": ""International Economics"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Co-Founder, CEO"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""VP"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Personal & Consumer Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Director"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Entertainment & Live Arts"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Director"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Broadcast Media Production & Distribution"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Analyst"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Internet Media & Publishing industry.
+Education:
+* Master of Business Administration in Master of Business Administration (Institution QS rank 6)
+* BA in International Economics (Institution QS rank 200+)
+
+Professional experience:
+* Co-Founder, CEO for <2 years in the `IT Services & Digital Solutions` industry (51-200 employees)
+* VP for <2 years in the `Personal & Consumer Services` industry (51-200 employees)
+* Director for <2 years in the `Entertainment & Live Arts` industry (1001-5000 employees)
+* Director for <2 years in the `Broadcast Media Production & Distribution` industry (10001+ employees)
+* Analyst for 2-3 years
+"
+e5249b03-6fc4-40bf-a4cb-13c1b6fe2aec,0,Biotechnology & Nanotechnology Research,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Business Administration and Marketing"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""Master"",
+    ""field"": ""Marketing Research and Brand Management"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Chairman (District Export Trade Council)"",
+    ""company_size"": """",
+    ""industry"": ""Government Policy & Legal Services"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""President"",
+    ""company_size"": """",
+    ""industry"": ""Government Policy & Legal Services"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""President"",
+    ""company_size"": """",
+    ""industry"": ""Real Estate & Leasing"",
+    ""duration"": "">9""
+  },
+  {
+    ""role"": ""Corporate Communications Specialist"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Biotechnology & Nanotechnology Research industry.
+Education:
+* BS in Business Administration and Marketing (Institution QS rank 200+)
+* Master in Marketing Research and Brand Management (Institution QS rank 200+)
+
+Professional experience:
+* Chairman (District Export Trade Council) for 2-3 years in the `Government Policy & Legal Services` industry
+* President for 6-9 years in the `Government Policy & Legal Services` industry
+* President for >9 years in the `Real Estate & Leasing` industry
+* Corporate Communications Specialist for 2-3 years
+"
+9e9c27ff-4fec-4df8-a8dd-1b491b9b01d5,0,Food & Beverage Production & Farming,[],[],"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Mechanical Engineering"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Co-Owner, Operator"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Design Engineer"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""Industrial & Agricultural Machinery Manufacturing"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Registered Maine Guide"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Field Engineer"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Mechanical Engineer"",
+    ""company_size"": """",
+    ""industry"": ""Higher Education & Research"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Food & Beverage Production & Farming industry.
+Education:
+* BS in Mechanical Engineering (Institution QS rank 200+)
+* (Institution QS rank 200+)
+
+Professional experience:
+* Co-Owner, Operator for 4-5 years
+* Design Engineer for 2-3 years in the `Industrial & Agricultural Machinery Manufacturing` industry (201-500 employees)
+* Registered Maine Guide for 2-3 years
+* Field Engineer for <2 years
+* Mechanical Engineer for <2 years in the `Higher Education & Research` industry
+"
+06ee83e6-cb25-406b-a645-51c942cf70d9,0,IT Services & Digital Solutions,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Entrepreneurship"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Enterprise Account Manager"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Territory Account Manager, Operations"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Inside Sales Representative"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Account Manager"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* BS in Entrepreneurship (Institution QS rank 200+)
+
+Professional experience:
+* Enterprise Account Manager for <2 years in the `Software Development` industry (5001-10000 employees)
+* Territory Account Manager, Operations for <2 years in the `IT Services & Digital Solutions` industry (2-10 employees)
+* Inside Sales Representative for <2 years in the `Technology, Information & Internet Platforms` industry (2-10 employees)
+* Account Manager for 4-5 years
+"
+ce336b03-cb70-431b-8ad3-5a0f1a0d9686,0,Renewable Energy & Climate Tech,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Finance and Insurance"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BArch"",
+    ""field"": ""Landscape Architecture"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Founder, Managing Partner"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Software Development"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": """",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Wellness & Community Health"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Business Office Manager"",
+    ""company_size"": """",
+    ""industry"": ""Wellness & Community Health"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Marketing Director"",
+    ""company_size"": """",
+    ""industry"": ""Creative & Graphic Design"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior VP, Regional Manager"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Human Resources & Talent Services"",
+    ""duration"": "">9""
+  }
+]","This founder leads a startup in the Renewable Energy & Climate Tech industry.
+Education:
+* BS in Finance and Insurance (Institution QS rank 200+)
+* BArch in Landscape Architecture (Institution QS rank 200+)
+
+Professional experience:
+* Founder, Managing Partner for 6-9 years in the `Software Development` industry (11-50 employees)
+* for 2-3 years in the `Wellness & Community Health` industry (11-50 employees)
+* Business Office Manager for <2 years in the `Wellness & Community Health` industry
+* Marketing Director for <2 years in the `Creative & Graphic Design` industry
+* Senior VP, Regional Manager for >9 years in the `Human Resources & Talent Services` industry (1001-5000 employees)
+"
+764a5623-cb6b-481d-bc53-241075e13fa6,0,Financial Services,,,"[
+  {
+    ""degree"": ""MA, PhD"",
+    ""field"": ""Economics"",
+    ""qs_ranking"": ""48""
+  },
+  {
+    ""degree"": ""BA"",
+    ""field"": ""Economics"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Founder"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Real Estate Investor, Developer"",
+    ""company_size"": """",
+    ""industry"": ""Real Estate & Leasing"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""SVP, Portfolio Manager"",
+    ""company_size"": ""5001-10000 employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Trader, Portfolio Manager"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Portfolio Manager"",
+    ""company_size"": ""201-500 employees"",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Portfolio Manager"",
+    ""company_size"": """",
+    ""industry"": ""Financial Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Senior Financial Economist"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Government Policy & Legal Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Financial Services industry.
+Education:
+* MA, PhD in Economics (Institution QS rank 48)
+* BA in Economics (Institution QS rank 200+)
+
+Professional experience:
+* Founder for 2-3 years
+* Real Estate Investor, Developer for <2 years in the `Real Estate & Leasing` industry
+* SVP, Portfolio Manager for 6-9 years in the `Financial Services` industry (5001-10000 employees)
+* Trader, Portfolio Manager for <2 years in the `Financial Services` industry (51-200 employees)
+* Portfolio Manager for <2 years in the `Financial Services` industry (201-500 employees)
+* Portfolio Manager for <2 years in the `Financial Services` industry
+* Senior Financial Economist for <2 years in the `Government Policy & Legal Services` industry (10001+ employees)
+"
+469f271d-087d-42bb-89dd-972e55102fc9,0,Personal & Consumer Services,,,"[
+  {
+    ""degree"": ""DVM"",
+    ""field"": ""Veterinary Medicine"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Head of Quality Department"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""4-5""
+  }
+]","This founder leads a startup in the Personal & Consumer Services industry.
+Education:
+* DVM in Veterinary Medicine (Institution QS rank 200+)
+
+Professional experience:
+* Head of Quality Department for 4-5 years
+"
+8b05882d-c514-4dcd-bff1-e04d8bb4b99d,0,General Retail & Consumer Goods,,,"[
+  {
+    ""degree"": ""JD"",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Accounting"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Partner"",
+    ""company_size"": ""51-200 employees"",
+    ""industry"": ""Legal Services & Law Firms"",
+    ""duration"": ""6-9""
+  }
+]","This founder leads a startup in the General Retail & Consumer Goods industry.
+Education:
+* JD (Institution QS rank 200+)
+* BS in Accounting (Institution QS rank 200+)
+
+Professional experience:
+* Partner for 6-9 years in the `Legal Services & Law Firms` industry (51-200 employees)
+"
+85916ef8-6b1d-42e8-bf8b-8354c35920b4,0,Veterinary,,,"[
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Accounting Information Systems and Entrepreneurship and Mathematical Finance"",
+    ""qs_ranking"": ""101""
+  },
+  {
+    ""degree"": ""Fellowship"",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Product Manager"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Education & Training Services"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Analyst"",
+    ""company_size"": ""501-1000 employees"",
+    ""industry"": ""Management, Strategy & Professional Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Veterinary industry.
+Education:
+* BS in Accounting Information Systems and Entrepreneurship and Mathematical Finance (Institution QS rank 101)
+* Fellowship (Institution QS rank 200+)
+
+Professional experience:
+* Product Manager for <2 years in the `Education & Training Services` industry (11-50 employees)
+* Analyst for <2 years in the `Management, Strategy & Professional Services` industry (501-1000 employees)
+"
+1fb64e48-b9d7-4911-af19-bc01b29a9e7e,0,IT Services & Digital Solutions,[],[],"[
+  {
+    ""degree"": ""MS"",
+    ""field"": ""Computer Systems Networking and Telecommunications"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Owner"",
+    ""company_size"": ""2-10 employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Software Engineer"",
+    ""company_size"": """",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* MS in Computer Systems Networking and Telecommunications (Institution QS rank 200+)
+
+Professional experience:
+* Owner for <2 years in the `IT Services & Digital Solutions` industry (2-10 employees)
+* Software Engineer for <2 years in the `IT Services & Digital Solutions` industry
+"
+e7d317fc-7ffc-4364-b809-661f6f930733,0,IT Services & Digital Solutions,[],[],"[
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Philosophy and Economics"",
+    ""qs_ranking"": ""13""
+  }
+]","[
+  {
+    ""role"": ""Partner, Principal (Digital Analytics Center of Excellence)"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""IT Services & Digital Solutions"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""President, CTO"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": "">9""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* Bachelor in Philosophy and Economics (Institution QS rank 13)
+
+Professional experience:
+* Partner, Principal (Digital Analytics Center of Excellence) for 2-3 years in the `IT Services & Digital Solutions` industry (10001+ employees)
+* President, CTO for >9 years
+"
+9d378474-518c-48de-8540-9d75263f6598,0,Food & Beverage Services & Retail,,,"[
+  {
+    ""degree"": ""JD"",
+    ""field"": ""Law"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BSBA"",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Director (National Sales & Legal Affairs)"",
+    ""company_size"": """",
+    ""industry"": """",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Attorney, CEO"",
+    ""company_size"": """",
+    ""industry"": ""Legal Services & Law Firms"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Board Member"",
+    ""company_size"": """",
+    ""industry"": ""Museums, Fine Arts & Heritage"",
+    ""duration"": ""4-5""
+  },
+  {
+    ""role"": ""Clerk"",
+    ""company_size"": """",
+    ""industry"": ""Government Policy & Legal Services"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Food & Beverage Services & Retail industry.
+Education:
+* JD in Law (Institution QS rank 200+)
+* BSBA (Institution QS rank 200+)
+
+Professional experience:
+* Director (National Sales & Legal Affairs) for <2 years
+* Attorney, CEO for 2-3 years in the `Legal Services & Law Firms` industry
+* Board Member for 4-5 years in the `Museums, Fine Arts & Heritage` industry
+* Clerk for <2 years in the `Government Policy & Legal Services` industry
+"
+e78c1968-6810-4b53-890f-ee082850b03c,0,Food & Beverage Services & Retail,,,"[
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Founder"",
+    ""company_size"": """",
+    ""industry"": ""Food & Beverage Services & Retail"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Partner"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Food & Beverage Services & Retail"",
+    ""duration"": "">9""
+  }
+]","This founder leads a startup in the Food & Beverage Services & Retail industry.
+Education:
+* (Institution QS rank 200+)
+
+Professional experience:
+* Founder for 2-3 years in the `Food & Beverage Services & Retail` industry
+* Partner for >9 years in the `Food & Beverage Services & Retail` industry (1001-5000 employees)
+"
+a5563d23-f745-4145-8f14-3893c9301eda,0,"Technology, Information & Internet Platforms",,,"[
+  {
+    ""degree"": ""Bachelor"",
+    ""field"": ""Business Administration and Management"",
+    ""qs_ranking"": ""200+""
+  },
+  {
+    ""degree"": ""BS"",
+    ""field"": ""Physics"",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Co-Founder, SEO & Ads Specialist"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Marketing, Advertising & Events"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Assistant Brand Manager"",
+    ""company_size"": ""10001+ employees"",
+    ""industry"": ""Clinical & Diagnostic Healthcare"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Digital Marketing Specialist"",
+    ""company_size"": ""1001-5000 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""2-3""
+  }
+]","This founder leads a startup in the Technology, Information & Internet Platforms industry.
+Education:
+* Bachelor in Business Administration and Management (Institution QS rank 200+)
+* BS in Physics (Institution QS rank 200+)
+
+Professional experience:
+* Co-Founder, SEO & Ads Specialist for <2 years in the `Marketing, Advertising & Events` industry (11-50 employees)
+* Assistant Brand Manager for <2 years in the `Clinical & Diagnostic Healthcare` industry (10001+ employees)
+* Digital Marketing Specialist for 2-3 years in the `Technology, Information & Internet Platforms` industry (1001-5000 employees)
+"
+dde1d0c2-fb66-4a7b-96cb-3ceec16816b7,0,Food & Beverage Production & Farming,,,,"[
+  {
+    ""role"": ""General Manager"",
+    ""company_size"": """",
+    ""industry"": ""Food & Beverage Services & Retail"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Wine Director"",
+    ""company_size"": """",
+    ""industry"": ""Food & Beverage Services & Retail"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Wine Director"",
+    ""company_size"": """",
+    ""industry"": ""Food & Beverage Services & Retail"",
+    ""duration"": ""<2""
+  }
+]","This founder leads a startup in the Food & Beverage Production & Farming industry.
+Professional experience:
+* General Manager for 2-3 years in the `Food & Beverage Services & Retail` industry
+* Wine Director for <2 years in the `Food & Beverage Services & Retail` industry
+* Wine Director for <2 years in the `Food & Beverage Services & Retail` industry
+"
+420f6542-517c-4017-8d53-6638e712601a,0,IT Services & Digital Solutions,,,"[
+  {
+    ""degree"": """",
+    ""field"": """",
+    ""qs_ranking"": ""200+""
+  }
+]","[
+  {
+    ""role"": ""Director"",
+    ""company_size"": """",
+    ""industry"": ""Internet Media & Publishing"",
+    ""duration"": ""6-9""
+  },
+  {
+    ""role"": ""Architect, Development Manager"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Technology, Information & Internet Platforms"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""CTO"",
+    ""company_size"": ""11-50 employees"",
+    ""industry"": ""Publishing"",
+    ""duration"": ""2-3""
+  },
+  {
+    ""role"": ""Owner"",
+    ""company_size"": """",
+    ""industry"": ""Legal Services & Law Firms"",
+    ""duration"": ""6-9""
+  }
+]","This founder leads a startup in the IT Services & Digital Solutions industry.
+Education:
+* (Institution QS rank 200+)
+
+Professional experience:
+* Director for 6-9 years in the `Internet Media & Publishing` industry
+* Architect, Development Manager for <2 years in the `Technology, Information & Internet Platforms` industry (11-50 employees)
+* CTO for 2-3 years in the `Publishing` industry (11-50 employees)
+* Owner for 6-9 years in the `Legal Services & Law Firms` industry
+"
+48b874a2-3d4d-4df8-82fa-4e2cd30cc794,0,,[],[],,"[
+  {
+    ""role"": ""Field Military Police"",
+    ""company_size"": """",
+    ""industry"": ""Armed Forces"",
+    ""duration"": ""<2""
+  },
+  {
+    ""role"": ""Owner"",
+    ""company_size"": """",
+    ""industry"": """"
+  }
+]","This founder leads a startup
+Professional experience:
+* Field Military Police for <2 years in the `Armed Forces` industry
+* Owner
+"
