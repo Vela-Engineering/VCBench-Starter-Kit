@@ -2,6 +2,41 @@
 
 A minimal toolkit for evaluating LLMs on venture capital founder success prediction using the VCBench dataset.
 
+## Objective of the Task
+
+Participants will develop LLM-based systems to predict founder success in venture capital. The task requires analyzing anonymized founder profiles and determining whether their startup will achieve major success.
+
+Success is defined as the founder's most recent startup achieving an IPO/acquisition above $500M or raising $500M+. Startups that raised $100K–$4M at founding but failed to reach a major outcome in eight years are marked unsuccessful.
+
+Participants must design effective prompts and utilize the anonymized prose format to make binary predictions ("Yes"/"No"), optimizing for F0.5 primarily and precision secondarily.
+
+## Dataset
+
+**VCBench Dataset**
+9,000 anonymized founder–startup profiles with a 9% success rate. Profiles include founder background (education, jobs, prior IPO/acquisitions) and startup details (industry, outcomes). Data comes from LinkedIn, Crunchbase, and licensed sources, restricted to what was known before founding.
+
+**Training Dataset**
+Public training set: 4,500 founders (available in this repository as `vcbench_final_public.csv`)
+
+**Testing Dataset** 
+Private test set: 4,500 founders (3 folds) - held by Vela Research for leaderboard evaluation
+
+**Data Format**
+- Anonymized prose (natural-language summaries optimized for direct LLM use)
+- Structured JSON (for feature-based ML models)
+
+**Evaluation**
+Metrics: precision, recall, and F0.5, averaged across folds. Private labels are never released to prevent data leakage into LLM training corpora.
+The primary evaluation metric adopted is F0.5; precision is treated as the secondary metric.
+
+
+## What Participants Should Submit
+
+- Complete code for running LLM predictions
+- Prediction results on the training set demonstrating model performance
+- An evaluation script that processes results and computes metrics
+- Clear documentation of prompt engineering and methodology
+
 ## Quick Start
 
 1. Install dependencies:
