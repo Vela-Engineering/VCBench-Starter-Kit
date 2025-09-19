@@ -31,7 +31,7 @@ Private test set: 4,500 founders (3 folds) - held by Vela Research for leaderboa
 Metrics: precision, recall, and F0.5, averaged across folds. Private labels are never released to prevent data leakage into LLM training corpora.
 The primary evaluation metric adopted is F0.5; precision is treated as the secondary metric.
 
-##Additional Requirements
+## Additional Requirements
 - To protect the private test set, internet access is prohibited for all models except for calling LLM APIs. 
 
 
