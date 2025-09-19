@@ -4,7 +4,7 @@ A minimal toolkit for evaluating LLMs on venture capital founder success predict
 
 ## Objective of the Task
 
-Participants will develop LLM-based systems to predict founder success in venture capital. The task requires analyzing anonymized founder profiles and determining whether their startup will achieve major success.
+Participants will develop ML/LLM-based systems to predict founder success in venture capital. The task requires analyzing anonymized founder profiles and determining whether their startup will achieve major success.
 
 Success is defined as the founder's most recent startup achieving an IPO/acquisition above $500M or raising $500M+. Startups that raised $100K–$4M at founding but failed to reach a major outcome in eight years are marked unsuccessful.
 
@@ -13,7 +13,9 @@ Participants must design effective prompts and utilize the anonymized prose form
 ## Dataset
 
 **VCBench Dataset**
-9,000 anonymized founder–startup profiles with a 9% success rate. Profiles include founder background (education, jobs, prior IPO/acquisitions) and startup details (industry, outcomes). Data comes from LinkedIn, Crunchbase, and licensed sources, restricted to what was known before founding.
+Paper: https://arxiv.org/abs/2509.14448
+
+9,000 anonymized founder–startup profiles with a 9% success rate. Profiles include founder background (education, jobs, prior IPO/acquisitions) and startup details (industry, outcomes). Data was collected from LinkedIn and Crunchbase, restricted to only information available prior to the founding of the company, simulating real-world early-stage prediction.
 
 **Training Dataset**
 Public training set: 4,500 founders (available in this repository as `vcbench_final_public.csv`)
@@ -28,6 +30,9 @@ Private test set: 4,500 founders (3 folds) - held by Vela Research for leaderboa
 **Evaluation**
 Metrics: precision, recall, and F0.5, averaged across folds. Private labels are never released to prevent data leakage into LLM training corpora.
 The primary evaluation metric adopted is F0.5; precision is treated as the secondary metric.
+
+##Additional Requirements
+- To protect the private test set, internet access is prohibited for all models except for calling LLM APIs. 
 
 
 ## What Participants Should Submit
